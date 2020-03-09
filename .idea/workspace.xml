@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4555336e-73be-431d-beec-f5f25ca9a4b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +84,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="292" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583770287358">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="292" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1583770287358" />
     <state x="328" y="380" key="FileChooserDialogImpl" timestamp="1578776931368">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
