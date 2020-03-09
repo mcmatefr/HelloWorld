@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4555336e-73be-431d-beec-f5f25ca9a4b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="mate" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WGUIU2Ha4MPQWgQ8d1NUSIb2Vp" />
@@ -47,6 +52,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hello" />
         <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
@@ -97,10 +103,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="979" height="302" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1583749613762" />
-    <state x="28" y="200" key="SettingsEditor" timestamp="1578777102536">
+    <state x="28" y="200" key="SettingsEditor" timestamp="1583766661607">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="28" y="200" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1578777102536" />
+    <state x="28" y="200" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1583766661607" />
     <state x="219" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1578775404756">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
