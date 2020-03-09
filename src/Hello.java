@@ -3,7 +3,7 @@ public class Hello {
 
         System.out.println("Hello, World!");
         int myFirstNumber= 5;
-        int myFirstNumber2= 6;
+        String kaki="kaki";
         System.out.println(myFirstNumber2);
     }
 }
