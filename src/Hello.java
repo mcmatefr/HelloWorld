@@ -3,6 +3,7 @@ public class Hello {
 
         System.out.println("Hello, World!");
         int myFirstNumber= 5;
-        System.out.println(myFirstNumber);
+        int myFirstNumber2= 6;
+        System.out.println(myFirstNumber2);
     }
 }
